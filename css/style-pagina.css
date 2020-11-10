@@ -1,0 +1,39 @@
+.pagina-cabecalho{
+    background-color: #fff;
+    background-image: url("../img/background-with-sky-and-clouds-shape.jpg");
+    background-attachment: fixed;
+    color: #134c63;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.pagina-cabecalho__titulo{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.pagina-cabecalho__titulo::after{
+    content: '';
+    display: block;
+    width: 50px;
+    height: 3px;
+    background-color: #134c63;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.pagina-conteudo{
+    padding: 15px;
+    padding-top: 25px;
+    padding-top: 25px;
+}
+
+.pagina-conteudo p{
+    color: #3a3a3a;
+    line-height: 23px;
+    margin-bottom: 20px;
+}
+
+.text-center{
+    text-align: center;
+}

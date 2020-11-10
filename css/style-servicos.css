@@ -1,0 +1,29 @@
+.topico{
+    list-style-image: url(../img/seta-servicos.png);
+}
+
+.pagina-conteudo__topico{
+    color: #3a3a3a;
+    line-height: 23px;
+    margin-bottom: 20px;
+}
+
+.planos{
+    list-style: none;
+    padding: 0;
+}
+
+.planos__item{
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-bottom: 50px;
+}
+
+.planos__titulo{
+    color: #134c63;
+    font-size: 18px;
+    margin-left: 15px;
+    border-left: 1px solid #017398;
+    padding-left: 10px;
+}
+
